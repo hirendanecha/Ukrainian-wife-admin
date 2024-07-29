@@ -1,9 +1,9 @@
 export const environment = {
   production: true,
   hmr: false,
-  serverUrl: 'https://api.ukrainianwife.tube/api/v1/',
+  serverUrl: 'https://api.ukrainewife.tube/api/v1/',
   serverUrl2: 'http://localhost:8080/api/v1/',
-  socketUrl: 'https://api.ukrainianwife.tube/',
+  socketUrl: 'https://api.ukrainewife.tube/',
   socketUrl2: 'http://localhost:8080/',
   imgUrl: 'root/storage/uploads',
 
